@@ -1,0 +1,48 @@
+maths: mathématiques
+fruits: fruits
+goodbye: au revoir
+thank you: merci
+please: s'il vous plaît
+sorry: désolé
+yes: oui
+no: non
+apple: pomme
+banana: banane
+car: voiture
+house: maison
+cat: chat
+dog: chien
+bird: oiseau
+book: livre
+pen: stylo
+pencil: crayon
+computer: ordinateur
+phone: téléphone
+clock: horloge
+table: table
+chair: chaise
+food: nourriture
+water: eau
+rice: riz
+bread: pain
+milk: lait
+juice: jus
+vegetables: légumes
+red: rouge
+sun: soleil
+moon: lune
+stars: étoiles
+sky: ciel
+earth: terre
+tree: arbre
+flower: fleur
+river: rivière
+mountain: montagne
+ocean: océan
+
+
+
+
+
+
+
